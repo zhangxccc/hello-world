@@ -1,4 +1,5 @@
 # hello-world
-Just a repository
+Just a new repo
 
-say something,I'm giving up on you
+
+you and me we made a vow,for better or for worse
